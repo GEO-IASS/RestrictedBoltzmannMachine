@@ -1,6 +1,5 @@
 # RestrictedBoltzmannMachine
 
-- Details of implementation
 - rbm_es.m: Implementation of restricted boltzmann machine using the contrastive divergence algorithm for training.
 - rbm_es_kCD.m: Implementation of RBM with varying steps of gibbs sampling while training using contrastive divergence.
 - sampling.m: Generating images from the trained RBM.
